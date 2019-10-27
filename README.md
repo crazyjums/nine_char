@@ -8,7 +8,7 @@
 
 登录界面：
 
-![](https://img2018.cnblogs.com/blog/1212206/201904/1212206-20190429212936815-1774281140.png)
+![](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/1.png)
 
 注册界面：
 
