@@ -16,14 +16,14 @@ login.py 这是程序的入口，用户注册账号并进行登录，登录完�
 ## 主界面
 ![image](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/3.png)
 ## 测试界面
-1. ### 108题测试
+* ### 108题测试
 ![](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/4.png)
-2. ### 144题测试
+* ### 144题测试
 ![](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/5.png)
 ## 查看试题界面
-1. ### 查看108题界面
+* ### 查看108题界面
 ![](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/6.png)
-2. ### 查看144题界面
+* ### 查看144题界面
 ![](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/7.png)
 ## 关于作者
 ![](https://github.com/bluepen/MarkdownPic/blob/master/ninePersonality/8.png)
