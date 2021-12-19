@@ -11,26 +11,26 @@
 本程序还有一些小地方没有完善，但是基本的测试功能可以实现，所以不会影响正常的测试使用，如果您想基于本程序做一个改善，非常欢迎，也可以与本人去的联系，可以加我的微信：`crazyjumsz`
 # 程序演示
 ## 登录界面
-![image](.readme_images\1.png)
+![image](.readme_images/1.png)
 ## 注册界面
-![image](.readme_images\2.png)
+![image](.readme_images/2.png)
 ## 主界面
-![image](.readme_images\3.png)
+![image](.readme_images/3.png)
 ## 测试界面
 * ### 108题测试
-![](.readme_images\4.png)
+![](.readme_images/4.png)
 * ### 144题测试
-![](.readme_images\5.png)
+![](.readme_images/5.png)
 ## 查看试题界面
 * ### 查看108题界面
-![](.readme_images\6.png)
+![](.readme_images/6.png)
 * ### 查看144题界面
-![](.readme_images\7.png)
+![](.readme_images/7.png)
 ## 关于作者
-![](.readme_images\8.png)
+![](.readme_images/8.png)
 ## 查看九型人格性格特征
-![](.readme_images\10.png)
+![](.readme_images/10.png)
 ## 查看测试结果
-![](.readme_images\11.png)
+![](.readme_images/11.png)
 ## 查看个人中心
-![](.readme_images\12.png)
+![](.readme_images/12.png)
